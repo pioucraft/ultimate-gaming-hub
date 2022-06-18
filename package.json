@@ -4,7 +4,7 @@
   "description": "a gaming hub where you can launch game, install game from steam epic games and more and configure your gaming experience",
   "main": "index.js",
   "scripts": {
-    "test": "print(\"test\")"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
