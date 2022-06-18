@@ -13,34 +13,11 @@ div.buttons{
     height:100px;
 }
 
-button.home{
+button.home, button.fullscreen, button.stores, button.library, button.donations{
     background-color: #6C3483;
-    border: 2px solid black;
     cursor: pointer;
-    border-radius: 30px;
+    border-radius: 50vh;
     height:50px;
+    width: 100px;
 }
 
-button.fullscreen{
-    background-color: #6C3483;
-    border: 2px solid black;
-    cursor: pointer;
-    border-radius: 30px;
-    height:50px;
-}
-
-button.library{
-    background-color: #6C3483;
-    border: 2px solid black;
-    cursor: pointer;
-    border-radius: 30px;
-    height:50px;
-}
-
-button.stores{
-    background-color: #6C3483;
-    border: 2px solid black;
-    cursor: pointer;
-    border-radius: 30px;
-    height:50px;
-}
