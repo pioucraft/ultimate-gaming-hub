@@ -1,0 +1,26 @@
+{
+  "name": "ultimate-gaming-hub",
+  "version": "1.0.0",
+  "description": "a gaming hub where you can launch game, install game from steam epic games and more and configure your gaming experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "print(\"test\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pioucraft/ultimate-gaming-hub.git"
+  },
+  "keywords": [
+    "gaming",
+    "hub",
+    "js",
+    "javascript",
+    "electron"
+  ],
+  "author": "pioucraft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pioucraft/ultimate-gaming-hub/issues"
+  },
+  "homepage": "https://github.com/pioucraft/ultimate-gaming-hub#readme"
+}
