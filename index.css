@@ -4,3 +4,43 @@ h1.title{
     top:10%;
     transform: translate(-50%, -50%);
 }
+
+div.buttons{
+    position: absolute;
+    left: 50%;
+    top:25%;
+    transform: translate(-50%, -50%);
+    height:100px;
+}
+
+button.home{
+    background-color: #6C3483;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 30px;
+    height:50px;
+}
+
+button.fullscreen{
+    background-color: #6C3483;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 30px;
+    height:50px;
+}
+
+button.library{
+    background-color: #6C3483;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 30px;
+    height:50px;
+}
+
+button.stores{
+    background-color: #6C3483;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 30px;
+    height:50px;
+}
