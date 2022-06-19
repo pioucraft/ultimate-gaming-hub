@@ -1,0 +1,7 @@
+when button add pressed:
+create a variable with the name of the game and that has the repertory of the game
+
+when game is displayed:
+searching in internet the image of the game
+
+list of the games where the first game is the game that has been the most recently launched
